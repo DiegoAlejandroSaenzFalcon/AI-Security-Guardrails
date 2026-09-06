@@ -1,0 +1,27 @@
+﻿site_name: Directivas de Seguridad para IA
+site_url: https://diegoalejandrosaenzfalcon.github.io/Directivas-de-Seguridad-IA/
+site_author: Diego Alejandro Saenz Falcon
+copyright: Copyright &copy; 2024 Diego Alejandro Saenz Falcon
+
+repo_url: https://github.com/DiegoAlejandroSaenzFalcon/Directivas-de-Seguridad-IA
+repo_name: DiegoAlejandroSaenzFalcon/Directivas-de-Seguridad-IA
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+    - scheme: slate
+      primary: indigo
+      accent: amber
+
+nav:
+  - Inicio: index.md
+  - AGENTS.md: AGENTS.md
+  - HONEYTOKEN.md: HONEYTOKEN.md
+  - SECURITY.md: SECURITY.md
+  - CONTRIBUTING.md: CONTRIBUTING.md
+
+plugins:
+  - search
