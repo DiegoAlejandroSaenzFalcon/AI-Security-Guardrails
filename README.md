@@ -34,6 +34,6 @@ Ver SECURITY.md y .gitignore.
 | AGENTS.md | Instrucciones para agentes de IA **autorizados** |
 | llms.txt | Contexto machine-readable para LLMs autorizados |
 | HONEYTOKEN.md | Trampa / contrainyección para IA **no autorizada** |
-| rrobots-ai.md | Lista de crawlers de IA a bloquear (derivados web) |
+| robots-ai.md | Lista de crawlers de IA a bloquear (derivados web) |
 | .gitignore | Patrones que evitan commitear secretos |
 | CONTRIBUTING.md | Cómo aportar respetando estas directivas |
