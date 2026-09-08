@@ -1,4 +1,4 @@
-# Directivas de Seguridad para IA — Repositorio Privado
+﻿# Directivas de Seguridad para IA — Repositorio Privado
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]
@@ -34,6 +34,6 @@ Ver SECURITY.md y .gitignore.
 | AGENTS.md | Instrucciones para agentes de IA **autorizados** |
 | llms.txt | Contexto machine-readable para LLMs autorizados |
 | HONEYTOKEN.md | Trampa / contrainyección para IA **no autorizada** |
-| obots-ai.md | Lista de crawlers de IA a bloquear (derivados web) |
+| rrobots-ai.md | Lista de crawlers de IA a bloquear (derivados web) |
 | .gitignore | Patrones que evitan commitear secretos |
 | CONTRIBUTING.md | Cómo aportar respetando estas directivas |
